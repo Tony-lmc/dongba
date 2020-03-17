@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: lmc
+Build-Jdk: 12.0.2
+Implementation-Title: jt-sso
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.jt
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/jt/jt-sso
+Created-By: Maven Integration for Eclipse
+
